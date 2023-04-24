@@ -59,10 +59,10 @@
 			children = (
 				443C136729F6E029000C4B84 /* SwiftUIMemoApp.swift */,
 				443C136929F6E029000C4B84 /* ContentView.swift */,
-				443C137A29F6E255000C4B84 /* .gitignore */,
 				443C136B29F6E02A000C4B84 /* Assets.xcassets */,
 				443C137029F6E02A000C4B84 /* Persistence.swift */,
 				443C137229F6E02A000C4B84 /* SwiftUIMemo.xcdatamodeld */,
+				443C137A29F6E255000C4B84 /* .gitignore */,
 				443C136D29F6E02A000C4B84 /* Preview Content */,
 			);
 			path = SwiftUIMemo;
